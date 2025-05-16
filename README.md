@@ -1,10 +1,9 @@
 # Felix Muindi | Full-Stack Developer & AI Specialist
 
-![Portfolio Banner](https://via.placeholder.com/1200x400?text=Felix+Muindi+Portfolio) *(Consider adding an actual banner image here)*
+![Portfolio Banner]([https://via.placeholder.com/1200x400?text=Felix+Muindi+Portfolio](https://res.cloudinary.com/diocgrne6/image/upload/v1747398219/port_pic_zdzhsw.jpg))
 
 Welcome to my professional portfolio showcasing innovative web solutions, AI applications, and digital experiences. Built with **React** and **Tailwind CSS**, this site demonstrates my expertise in full-stack development and emerging technologies.
 
-🌐 **Live Site:** [portfolio.fmuindi.com](https://fmuindi.github.com/portfolio)  
 📧 **Contact:** [your.email@example.com](mailto:your.email@example.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 

@@ -4,8 +4,8 @@
 
 Welcome to my professional portfolio showcasing innovative web solutions, AI applications, and digital experiences. Built with **React** and **Tailwind CSS**, this site demonstrates my expertise in full-stack development and emerging technologies.
 
-📧 **Contact:** [your.email@example.com](mailto:muindifelix8@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/felix-muindi-93838a365/)
+📧 **Contact:** [Email Me](mailto:muindifelix8@gmail.com)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felix-muindi-93838a365/)
 
 ---
 

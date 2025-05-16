@@ -1,4 +1,4 @@
-# Felix Muindi | Full-Stack Developer & AI Specialist
+# Felix Muindi | Full-Stack Developer
 
 ![Portfolio Banner](https://res.cloudinary.com/diocgrne6/image/upload/v1747398219/port_pic_zdzhsw.jpg)
 

@@ -12,21 +12,21 @@ Welcome to my professional portfolio showcasing innovative web solutions, AI app
 ## 🏆 Featured Projects
 
 ### 🔊 Remio Radio 
-**Online Radio Platform** | React, Node.js, Icecast  
+**Online Radio Platform** | HTML/CSS, React, Node.js, MySQL, Icecast  
 - Music streaming with real-time analytics  
 - Podcast hosting with RSS feed integration  
 - Interactive song request system  
 🔗 [Live Demo](https://remioplay.com/)
 
 ### 🤝 The Other Side Ministry 
-**NGO Website** | WordPress, MySQL  
+**NGO Website** | HTML5, Tailwind CSS, Javascript, MySQL, PayPal API  
 - Donation processing system  
 - Event management portal  
 - Volunteer coordination tools  
 🔗 [Visit Site](https://theothersideministry.org)
 
-### 🛍️ Visuaze E-Branding 
-**Full-Stack Shop** | MERN Stack, PayPal API  
+### 🛍️ Visuaze  
+**E-Branding** | TailwindCSS, HTML5  
 - Web Design & Dev  
 - CMS  
 - Design Tools  

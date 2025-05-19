@@ -19,7 +19,7 @@ Welcome to my professional portfolio showcasing innovative web solutions, AI app
 🔗 [Live Demo](https://remioplay.com/)
 
 ### 🤝 The Other Side Ministry 
-**NGO Website** | HTML5, Tailwind CSS, Javascript, MySQL, PayPal API  
+**NGO Website** | HTML5, Tailwind CSS, Javascript, MySQL, Payment Gateway API  
 - Donation processing system  
 - Event management portal  
 - Volunteer coordination tools  
